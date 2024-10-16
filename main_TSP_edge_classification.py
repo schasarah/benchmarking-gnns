@@ -33,8 +33,8 @@ class DotDict(dict):
         self.__dict__ = self
         
 
-
-
+# conda activate myenv
+# python main_TSP_edge_classification.py --dataset TSP --config 'configs/TSP_edge_classification_MLP_100k.json' # for CPU
 
 
 

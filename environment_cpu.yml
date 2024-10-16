@@ -40,5 +40,7 @@ dependencies:
 - pip:
   - tensorflow==2.1.0
   - tensorflow-estimator==2.1.0
-  - tensorboard==2.1.1
+  - tensorboard==1.14.0
   - ogb==1.2.2
+  - markdown==3.1.1
+  - grpcio==1.32.0
